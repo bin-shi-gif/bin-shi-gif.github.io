@@ -2,11 +2,16 @@
 ==Bin Shi
 
 ~~~
-{}{img_left}{index_files/bin2.jpg}{alt text}{340}{340}{https://bin-shi-gif.github.io/}
+{}{img_left}{index_files/bin2.jpg}{alt text}{340}{320}{https://bin-shi-gif.github.io/}
 Welcome to my homepage! \n \n 
 
-I am a postdoc hosted jointly by
-- [http://people.eecs.berkeley.edu/~jordan/ Michael I. Jordan] in [https://eecs.berkeley.edu/ Department of Electrical Engineering and Computer Science] and [https://statistics.berkeley.edu/ Department of Statistics] at UC Berkeley  
+Associate Professor \n
+[http://lsec.cc.ac.cn/ State Key Laboratory of Scientific and Engineering Computing] \n
+[http://www.amss.cas.cn/ Academy Mathematics and System Science] \n
+[https://english.cas.cn/ Chinese Academy of Science] 
+ 
+#I am a postdoc hosted jointly by
+#- [http://people.eecs.berkeley.edu/~jordan/ Michael I. Jordan] in [https://eecs.berkeley.edu/ Department of Electrical Engineering and Computer Science] and [https://statistics.berkeley.edu/ Department of Statistics] at UC Berkeley  
 
 
 Here is [files/CV.pdf my resume].  
@@ -18,12 +23,16 @@ Here is [files/CV.pdf my resume].
 My broad research interests are the mathematics related with physics and engineering, especially machine learning. \n \n 
 
 
-RISELab, UC Berkeley \n
-465 Soda Hall, Berkeley, CA 94720 \n
+Address: 55, Zhong Guan Cun East Road, Beijing 100190, China \n
+#RISELab, UC Berkeley \n
+#465 Soda Hall, Berkeley, CA 94720 \n
 E-mail: binshi@berkeley.edu \n \n
 [https://scholar.google.com/citations?user=1pXvRD4AAAAJ&hl=en \[Google Scholar\]]
 ~~
 \n
+== Employment
+- Postdoc Scholar, University of California, Berkeley, 2019.1-2021.5 \n
+  Hoster: [http://people.eecs.berkeley.edu/~jordan/ Michael I. Jordan] 
 == Education
 - Ph.D in Computer Science, Florida International University, 2015-2018 \n
   Major: Theoretical Machine Learning
