@@ -27,11 +27,15 @@
 -- *Bin Shi*, Weijie Su and Michael I. Jordan
 -- /under review of Journal of Machine Learning Research/
 
-- [https://arxiv.org/abs/2105.11869 Conjugate and Cut Points in Ideal Fluid Motion]
--- Theodore D. Drivas, Gerard Misiołek, *Bin Shi* and Tsuyoshi Yoneda
--- /under review of Journal  Annales Mathématiques du Québec, special volume in honor of Professor Shnirelman's 75th birthday/
+#- [https://arxiv.org/abs/2105.11869 Conjugate and Cut Points in Ideal Fluid Motion]
+#-- Theodore D. Drivas, Gerard Misiołek, *Bin Shi* and Tsuyoshi Yoneda
+#-- /to appear in  Journal  Annales Mathématiques du Québec, special volume in honor of Professor Shnirelman's 75th birthday/
 
 == Publications 
+- [https://arxiv.org/abs/2105.11869 Conjugate and Cut Points in Ideal Fluid Motion]
+-- Theodore D. Drivas, Gerard Misiołek, *Bin Shi* and Tsuyoshi Yoneda
+-- /to appear in  Journal  Annales Mathématiques du Québec, special volume in honor of Professor Shnirelman's 75th birthday/
+
 - [https://arxiv.org/abs/1902.03694 Acceleration via Symplectic Discretization of High-Resolution Differential Equations]
 -- *Bin Shi*, Simon S. Du, Weijie J. Su and Michael I. Jordan
 -- Thirty-third Conference on Neural Information Processing Systems (NeurIPS2019)
