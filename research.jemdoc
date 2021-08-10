@@ -27,39 +27,47 @@
 -- *Bin Shi*, Weijie Su and Michael I. Jordan
 -- /under review of Journal of Machine Learning Research/
 
+- [https://arxiv.org/abs/2108.03947 On the Hyperparameters in Stochastic Gradient Descent with Momentum]
+-- *Bin Shi*
+-- /Submitted/
+
+
 #- [https://arxiv.org/abs/2105.11869 Conjugate and Cut Points in Ideal Fluid Motion]
 #-- Theodore D. Drivas, Gerard Misiołek, *Bin Shi* and Tsuyoshi Yoneda
 #-- /to appear in  Journal  Annales Mathématiques du Québec, special volume in honor of Professor Shnirelman's 75th birthday/
 
 == Publications 
-- [https://arxiv.org/abs/1810.08907 Understanding the Acceleration Phenomenon via High-Resolution Differential Equations]
--- *Bin Shi*, Simon S. Du, Michael I. Jordan and Weijie Su
--- /to appear in  Mathematical Programming/
 
 - [https://arxiv.org/abs/2105.11869 Conjugate and Cut Points in Ideal Fluid Motion]
 -- Theodore D. Drivas, Gerard Misiołek, *Bin Shi* and Tsuyoshi Yoneda
 -- /to appear in  Journal  Annales Mathématiques du Québec, special volume in honor of Professor Shnirelman's 75th birthday/
 
+
+- [https://arxiv.org/abs/1810.08907 Understanding the Acceleration Phenomenon via High-Resolution Differential Equations]
+-- *Bin Shi*, Simon S. Du, Michael I. Jordan and Weijie Su
+-- Mathematical Programming, Series A, 2021+.
+
+
+- [https://www.springer.com/gp/book/9783030170752 Mathematical Theories of Machine Learning - Theory and Applications]
+-- *Bin Shi* and Sundaraja S. Iyengar
+-- Springer International Publishing, 2020.
+
+
 - [https://arxiv.org/abs/1902.03694 Acceleration via Symplectic Discretization of High-Resolution Differential Equations]
 -- *Bin Shi*, Simon S. Du, Weijie J. Su and Michael I. Jordan
 -- Thirty-third Conference on Neural Information Processing Systems (NeurIPS2019)
+
 
 - [https://arxiv.org/abs/1708.08035 A Conservation Law Method in Optimization]
 -- *Bin Shi*, Tao Li and Sundaraja S. Iyengar
 -- [https://opt-ml.org/oldopt/opt17/ The Tenth Workshop on Optimization for Machine Learning]
 -- Thirty-first Conference on Neural Information Processing Systems (NIPS2017)
 
-- [https://www.springer.com/gp/book/9783030170752 Mathematical Theories of Machine Learning - Theory and Applications]
--- *Bin Shi* and Sundaraja S. Iyengar
--- /Springer International Publishing/, 2020.
-
-
-
 
 
 == In Preparation
-- On the Hyperparameters in SGD with Momentum
--- *Bin Shi*
+#- On the Hyperparameters in SGD with Momentum
+#-- *Bin Shi*
 
 - Inverse Energy Transfer in the 2D Incompressible Euler Equation
 -- Theodore D. Drivas, Gerard Misiołek, *Bin Shi* and Tsuyoshi Yoneda
