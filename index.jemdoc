@@ -6,7 +6,7 @@
 #Welcome to my homepage! 
 
 Associate Professor ([files/CV.pdf my resume])  Previously, I was a postdoc of [http://people.eecs.berkeley.edu/~jordan/ Michael I. Jordan].\n
-# [http://lsec.cc.ac.cn/ State Key Laboratory of Scientific and Engineering Computing] \n
+#[http://lsec.cc.ac.cn/ State Key Laboratory of Scientific and Engineering Computing] \n
 [http://www.amss.cas.cn/ Academy of Mathematics and Systems Science] \n
 [https://english.cas.cn/ Chinese Academy of Sciences]\n \n
 
@@ -31,9 +31,10 @@ Email: shibin@lsec.cc.ac.cn  \n \n\n
 
 == Research interests
 -  (Statistical) Optimization for Machine Learning                \n
--  Scientific Computing                                           \n    
+-  Scientific Computing                                           \n 
+-  Data Assimilation                                              \n   
 -  Nonlinear and Stochastic Sciences                              \n
--  Fluid Dynamics (Turbulence, Geophysical, Astrophysical) 
+-  Fluid Dynamics (Turbulence, Geophysical, Astrophysical)
 
 ##  - Major in Differential Equations and Optimization \n
 #=== 2. Geophysical and Astrophysical Fluid Dynamics \n 
@@ -44,7 +45,7 @@ Email: shibin@lsec.cc.ac.cn  \n \n\n
 
 == Selected Publications
 - [https://link.springer.com/article/10.1007/s10107-021-01681-8  Understanding the Acceleration Phenomenon via High-Resolution Differential Equations],   /Mathematical Programming, Series A, 195(1):79–148, 2022./
--- *Bin Shi*, Simon S. Du, Weijie Su, and Michael I. Jordan
+-- *Bin Shi*, Simon S. Du, Weijie Su and Michael I. Jordan
 
 - [https://arxiv.org/abs/2004.06977 On Learning Rates and Schrödinger Operators], /under review of Journal of Machine Learning Research./
 -- *Bin Shi*, Weijie Su and Michael I. Jordan
