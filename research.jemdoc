@@ -18,6 +18,10 @@
 #-- Many-Body Localization: Stability and Chaos
 
 == Publications 
+- [https://arxiv.org/abs/2004.06977 On Learning Rates and Schrödinger Operators], /Journal of Machine Learning Research,  2024+, Forthcoming/
+-- *Bin Shi*, Weijie Su and Michael I. Jordan
+
+
 
 #- [https://arxiv.org/abs/2108.03947 On the Hyperparameters in Stochastic Gradient Descent with Momentum], /Journal of Machine Learning Research, 2023+, (Accept after Minor Revision)./
 #-- *Bin Shi*
@@ -56,9 +60,7 @@
 #-- *Bin Shi*, Simon S. Du, Michael I. Jordan and Weijie Su
 #-- /under review of Mathematical Programming/
 
-- [https://arxiv.org/abs/2004.06977 On Learning Rates and Schrödinger Operators],
--- *Bin Shi*, Weijie Su and Michael I. Jordan
--- /under review of Journal of Machine Learning Research/
+
 
 - [https://arxiv.org/abs/2108.03947 On the Hyperparameters in Stochastic Gradient Descent with Momentum], 
 -- *Bin Shi*
