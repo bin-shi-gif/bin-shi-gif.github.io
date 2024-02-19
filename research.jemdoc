@@ -18,13 +18,17 @@
 #-- Many-Body Localization: Stability and Chaos
 
 == Publications 
+- [https://arxiv.org/abs/2308.13830 The Sampling Method for Optimal Precursors of ENSO Events], /To appear in Nonlinear Processes in Geophysics/
+--  *Bin Shi* and Junjie Ma (North University of China)
+
+
 - [https://arxiv.org/abs/2004.06977 On Learning Rates and Schrödinger Operators],  /Journal of Machine Learning Research, 24(379):1-53, 2023./
 -- *Bin Shi*, Weijie Su and Michael I. Jordan
 
 
-
 #- [https://arxiv.org/abs/2108.03947 On the Hyperparameters in Stochastic Gradient Descent with Momentum], /Journal of Machine Learning Research, 2023+, (Accept after Minor Revision)./
 #-- *Bin Shi*
+
 
 - [https://npg.copernicus.org/articles/30/263/2023/ An adjoint-free algorithm for conditional nonlinear optimal perturbations (CNOPs) via sampling], /Nonlinear Processes in Geophysics, 30(3):263–276, 2023./
 -- *Bin Shi* and Guodong Sun
@@ -99,9 +103,6 @@
 -- Bowen Li, *Bin Shi* and Ya-xiang Yuan
 #-- /Submitted/
 
-- [https://arxiv.org/abs/2308.13830 The Sampling Method for Optimal Precursors of ENSO Events],
---  *Bin Shi* and Junjie Ma (North University of China)
-#-- /Submitted/
 
 
 - [https://arxiv.org/abs/2401.07096 Understanding the ADMM Algorithm via High-Resolution Differential Equations], 
