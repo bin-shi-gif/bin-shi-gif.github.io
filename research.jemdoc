@@ -18,6 +18,11 @@
 #-- Many-Body Localization: Stability and Chaos
 
 == Publications 
+
+- [https://arxiv.org/abs/2306.09694 Linear convergence of Forward-Backward Accelrated Algorithms without Knowledge of the Modulus of Strong Convexity], /To appear in SIAM Journal on Optimization/
+-- Bowen Li, *Bin Shi* and Ya-xiang Yuan
+#-- /Submitted/
+
 - [https://npg.copernicus.org/articles/31/165/2024/ The sampling method for optimal precursors of El Niño-Southern Oscillation events],  /Nonlinear Processes in Geophysics, 31(1):165–174, 2024./
 --  *Bin Shi* and Junjie Ma 
 
@@ -99,9 +104,7 @@
 #-- /Submitted/
 
 
-- [https://arxiv.org/abs/2306.09694 Linear convergence of Nesterov-1983 with the strong convexity],
--- Bowen Li, *Bin Shi* and Ya-xiang Yuan
-#-- /Submitted/
+
 
 
 
