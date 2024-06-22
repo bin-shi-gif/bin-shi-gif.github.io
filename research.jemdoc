@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{research.html}, nofooter  
-= Research 
+= Publications
 
 #== Research interests
 #- Finished Topics
@@ -17,37 +17,41 @@
 #-- Quantum Hall Effect
 #-- Many-Body Localization: Stability and Chaos
 
-== Publications 
+== Journal Publications 
 
-- [https://arxiv.org/abs/2306.09694 Linear Convergence of Forward-Backward Accelerated Algorithms without Knowledge of the Modulus of Strong Convexity], /To appear in SIAM Journal on Optimization, 2024+./
+- [https://arxiv.org/abs/2306.09694 Linear Convergence of Forward-Backward Accelerated Algorithms without Knowledge of the Modulus of Strong Convexity], /SIAM Journal on Optimization, 2024, 34(2), 2150-2168./
 -- Bowen Li, *Bin Shi* and Ya-xiang Yuan
-#-- /Submitted/
 
-- [https://npg.copernicus.org/articles/31/165/2024/ The sampling method for optimal precursors of El Niño-Southern Oscillation events],  /Nonlinear Processes in Geophysics, 31(1):165–174, 2024./
+
+- [https://npg.copernicus.org/articles/31/165/2024/ The sampling method for optimal precursors of El Niño-Southern Oscillation events],  /Nonlinear Processes in Geophysics, 2024, 31(1):165–174./
 --  *Bin Shi* and Junjie Ma 
 
 
-- [https://jmlr.org/papers/v24/20-364.html On Learning Rates and Schrödinger Operators],  /Journal of Machine Learning Research, 24(379):1-53, 2023./
+- [https://jmlr.org/papers/v24/20-364.html On Learning Rates and Schrödinger Operators],  /Journal of Machine Learning Research, 2023, 24(379):1-53./
 -- *Bin Shi*, Weijie Su and Michael I. Jordan
 
 
-#- [https://arxiv.org/abs/2108.03947 On the Hyperparameters in Stochastic Gradient Descent with Momentum], /Journal of Machine Learning Research, 2023+, (Accept after Minor Revision)./
-#-- *Bin Shi*
 
-
-- [https://npg.copernicus.org/articles/30/263/2023/ An adjoint-free algorithm for conditional nonlinear optimal perturbations (CNOPs) via sampling], /Nonlinear Processes in Geophysics, 30(3):263–276, 2023./
+- [https://npg.copernicus.org/articles/30/263/2023/ An adjoint-free algorithm for conditional nonlinear optimal perturbations (CNOPs) via sampling], /Nonlinear Processes in Geophysics, 2023, 30(3):263–276./
 -- *Bin Shi* and Guodong Sun
 
 
-- [https://link.springer.com/article/10.1007/s10107-021-01681-8  Understanding the Acceleration Phenomenon via High-Resolution Differential Equations],   /Mathematical Programming, Series A, 195(1):79–148, 2022./
+- [https://link.springer.com/article/10.1007/s10107-021-01681-8  Understanding the Acceleration Phenomenon via High-Resolution Differential Equations],   /Mathematical Programming, 2022, 195(1):79–148./
 -- *Bin Shi*, Simon S. Du, Michael I. Jordan and Weijie Su
 
 
-- [https://link.springer.com/article/10.1007/s40316-021-00176-4 Conjugate and Cut Points in Ideal Fluid Motion], /Annales Mathématiques du Québec, 46(1):207-225, 2022./
+- [https://link.springer.com/article/10.1007/s40316-021-00176-4 Conjugate and Cut Points in Ideal Fluid Motion], /Annales Mathématiques du Québec, 2022, 46(1):207-225./
 -- Theodore D. Drivas, Gerard Misiołek, *Bin Shi* and Tsuyoshi Yoneda
 
-- [https://arxiv.org/abs/1902.03694 Acceleration via Symplectic Discretization of High-Resolution Differential Equations], /Thirty-third Conference on Neural Information Processing Systems (NeurIPS 2019)./ 
+
+
+== Workshop and Conference Proceedings
+- [https://arxiv.org/abs/1902.03694 Acceleration via Symplectic Discretization of High-Resolution Differential Equations], /Proceedings of the 33rd International Conference on Neural Information Processing Systems, (NeurIPS 2019)./ 
 -- *Bin Shi*, Simon S. Du, Weijie J. Su and Michael I. Jordan
+
+- [https://arxiv.org/abs/1708.08035 A Conservation Law Method in Optimization], /[https://opt-ml.org/oldopt/opt17/ The Tenth Workshop on Optimization for Machine Learning], Proceedings of the 31st International Conference on Neural Information Processing Systems, (NeurIPS 2017)./
+-- *Bin Shi*, Tao Li and Sundaraja S. Iyengar
+
 
 
 
@@ -64,9 +68,6 @@
 
 
 == Preprints 
-#- [https://arxiv.org/abs/1810.08907 Understanding the Acceleration Phenomenon via High-Resolution Differential Equations]
-#-- *Bin Shi*, Simon S. Du, Michael I. Jordan and Weijie Su
-#-- /under review of Mathematical Programming/
 
 
 
@@ -75,7 +76,6 @@
 -- /Journal of Machine Learning Research, 2023+, (Accept after Minor Revision)./
 
 
-#-- /Submitted/
 
 
 
@@ -117,9 +117,7 @@
 
 
 
-== Workshop Paper
-- [https://arxiv.org/abs/1708.08035 A Conservation Law Method in Optimization], /[https://opt-ml.org/oldopt/opt17/ The Tenth Workshop on Optimization for Machine Learning], Thirty-first Conference on Neural Information Processing Systems/ (NeurIPS2017)
--- *Bin Shi*, Tao Li and Sundaraja S. Iyengar
+
 
 #== In Preparation
 #- On the Hyperparameters in SGD with Momentum
