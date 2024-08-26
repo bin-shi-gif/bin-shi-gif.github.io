@@ -19,32 +19,35 @@
 
 == Journal Publications 
 
+- [https://arxiv.org/abs/2212.06319 Linear Convergence of ISTA and FISTA], /To appear in Journal of the Operations Research Society of China, 2024./
+-- Bowen Li, *Bin Shi* and Ya-xiang Yuan
+
 
 - [https://arxiv.org/abs/2108.03947 On the Hyperparameters in Stochastic Gradient Descent with Momentum], /To appear in Journal of Machine Learning Research, 2024./
 -- *Bin Shi*
 
-- [https://epubs.siam.org/doi/abs/10.1137/23M158111X Linear Convergence of Forward-Backward Accelerated Algorithms without Knowledge of the Modulus of Strong Convexity], /SIAM Journal on Optimization, 2024, 34(2):2150-2168./
+- [https://epubs.siam.org/doi/abs/10.1137/23M158111X Linear Convergence of Forward-Backward Accelerated Algorithms without Knowledge of the Modulus of Strong Convexity], /SIAM Journal on Optimization, 34(2):2150-2168, 2024./
 -- Bowen Li, *Bin Shi* and Ya-xiang Yuan
 
 
-- [https://npg.copernicus.org/articles/31/165/2024/ The sampling method for optimal precursors of El Niño-Southern Oscillation events],  /Nonlinear Processes in Geophysics, 2024, 31(1):165–174./
+- [https://npg.copernicus.org/articles/31/165/2024/ The sampling method for optimal precursors of El Niño-Southern Oscillation events],  /Nonlinear Processes in Geophysics, 31(1):165–174, 2024./
 --  *Bin Shi* and Junjie Ma 
 
 
-- [https://jmlr.org/papers/v24/20-364.html On Learning Rates and Schrödinger Operators],  /Journal of Machine Learning Research, 2023, 24(379):1–53./
+- [https://jmlr.org/papers/v24/20-364.html On Learning Rates and Schrödinger Operators],  /Journal of Machine Learning Research, 24(379):1–53, 2023./
 -- *Bin Shi*, Weijie Su and Michael I. Jordan
 
 
 
-- [https://npg.copernicus.org/articles/30/263/2023/ An adjoint-free algorithm for conditional nonlinear optimal perturbations (CNOPs) via sampling], /Nonlinear Processes in Geophysics, 2023, 30(3):263–276./
+- [https://npg.copernicus.org/articles/30/263/2023/ An adjoint-free algorithm for conditional nonlinear optimal perturbations (CNOPs) via sampling], /Nonlinear Processes in Geophysics, 30(3):263–276, 2023./
 -- *Bin Shi* and Guodong Sun
 
 
-- [https://link.springer.com/article/10.1007/s10107-021-01681-8  Understanding the Acceleration Phenomenon via High-Resolution Differential Equations],   /Mathematical Programming, 2022, 195(1):79–148./
--- *Bin Shi*, Simon S. Du, Michael I. Jordan and Weijie Su
+- [https://link.springer.com/article/10.1007/s10107-021-01681-8  Understanding the Acceleration Phenomenon via High-Resolution Differential Equations],   /Mathematical Programming, Series A, 195(1):79–148, 2022./
+-- *Bin Shi*, Simon S. Du, Weijie Su and Michael I. Jordan. 
 
 
-- [https://link.springer.com/article/10.1007/s40316-021-00176-4 Conjugate and Cut Points in Ideal Fluid Motion], /Annales Mathématiques du Québec, 2022, 46(1):207-225./
+- [https://link.springer.com/article/10.1007/s40316-021-00176-4 Conjugate and Cut Points in Ideal Fluid Motion], /Annales Mathématiques du Québec, 46(1):207-225, 2022./
 -- Theodore D. Drivas, Gerard Misiołek, *Bin Shi* and Tsuyoshi Yoneda
 
 
@@ -90,9 +93,7 @@
 -- Shuo Chen, *Bin Shi* and Ya-xiang Yuan
 #-- /Submitted/
 
-- [https://arxiv.org/abs/2212.06319 Linear Convergence of ISTA and FISTA],
--- Bowen Li, *Bin Shi* and Ya-xiang Yuan
-#-- /Submitted/
+
 
 - [https://arxiv.org/abs/2304.14642 On Underdamped Nesterov's Acceleration],
 -- Shuo Chen, *Bin Shi* and Ya-xiang Yuan
