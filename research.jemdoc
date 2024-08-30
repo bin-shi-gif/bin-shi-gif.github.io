@@ -19,12 +19,13 @@
 
 == Journal Publications 
 
-- [https://arxiv.org/abs/2212.06319 Linear Convergence of ISTA and FISTA], /To appear in Journal of the Operations Research Society of China, 2024./
+- [https://arxiv.org/abs/2212.06319 Linear Convergence of ISTA and FISTA], /To appear in Journal of the Operations Research Society of China, 2024+./
 -- Bowen Li, *Bin Shi* and Ya-xiang Yuan
 
 
-- [https://arxiv.org/abs/2108.03947 On the Hyperparameters in Stochastic Gradient Descent with Momentum], /To appear in Journal of Machine Learning Research, 2024./
+- [https://arxiv.org/abs/2108.03947 On the Hyperparameters in Stochastic Gradient Descent with Momentum], /To appear in Journal of Machine Learning Research, 2024./ 
 -- *Bin Shi*
+
 
 - [https://epubs.siam.org/doi/abs/10.1137/23M158111X Linear Convergence of Forward-Backward Accelerated Algorithms without Knowledge of the Modulus of Strong Convexity], /SIAM Journal on Optimization, 34(2):2150-2168, 2024./
 -- Bowen Li, *Bin Shi* and Ya-xiang Yuan
@@ -34,7 +35,7 @@
 --  *Bin Shi* and Junjie Ma 
 
 
-- [https://jmlr.org/papers/v24/20-364.html On Learning Rates and Schrödinger Operators],  /Journal of Machine Learning Research, 24(379):1–53, 2023./
+- [https://jmlr.org/papers/v24/20-364.html On Learning Rates and Schrödinger Operators],  /Journal of Machine Learning Research, 24(379):1-53, 2023./
 -- *Bin Shi*, Weijie Su and Michael I. Jordan
 
 
@@ -44,7 +45,7 @@
 
 
 - [https://link.springer.com/article/10.1007/s10107-021-01681-8  Understanding the Acceleration Phenomenon via High-Resolution Differential Equations],   /Mathematical Programming, Series A, 195(1):79–148, 2022./
--- *Bin Shi*, Simon S. Du, Weijie Su and Michael I. Jordan. 
+-- *Bin Shi*, Simon S. Du, Michael I. Jordan and Weijie Su
 
 
 - [https://link.springer.com/article/10.1007/s40316-021-00176-4 Conjugate and Cut Points in Ideal Fluid Motion], /Annales Mathématiques du Québec, 46(1):207-225, 2022./
@@ -56,7 +57,7 @@
 - [https://arxiv.org/abs/1902.03694 Acceleration via Symplectic Discretization of High-Resolution Differential Equations], /Proceedings of the 33rd International Conference on Neural Information Processing Systems, (NeurIPS 2019)./ 
 -- *Bin Shi*, Simon S. Du, Weijie J. Su and Michael I. Jordan
 
-- [https://arxiv.org/abs/1708.08035 A Conservation Law Method in Optimization], /[https://opt-ml.org/oldopt/opt17/ The Tenth Workshop on Optimization for Machine Learning], The 31st International Conference on Neural Information Processing Systems, (NeurIPS 2017)./
+- [https://arxiv.org/abs/1708.08035 A Conservation Law Method in Optimization], /[https://opt-ml.org/oldopt/opt17/ The Tenth Workshop on Optimization for Machine Learning], Proceedings of the 31st International Conference on Neural Information Processing Systems, (NeurIPS 2017)./
 -- *Bin Shi*, Tao Li and Sundaraja S. Iyengar
 
 
@@ -75,6 +76,7 @@
 
 
 == Preprints 
+
 
 
 - [https://arxiv.org/abs/2209.08862 Gradient Norm Minimization of Nesterov's Acceleration o(1/k^3)],
@@ -98,9 +100,6 @@
 - [https://arxiv.org/abs/2304.14642 On Underdamped Nesterov's Acceleration],
 -- Shuo Chen, *Bin Shi* and Ya-xiang Yuan
 #-- /Submitted/
-
-
-
 
 
 
