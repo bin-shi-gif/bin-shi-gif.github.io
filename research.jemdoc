@@ -54,10 +54,13 @@
 
 
 == Workshop and Conference Proceedings
-- [https://arxiv.org/abs/1902.03694 Acceleration via Symplectic Discretization of High-Resolution Differential Equations], /Proceedings of the 33rd International Conference on Neural Information Processing Systems, (NeurIPS 2019)./ 
+- [ Quantum Optimization via Gradient-Based Hamiltonian Descent], /ICML 2025./ 
+-- Jiaqi Leng, *Bin Shi*
+
+- [https://arxiv.org/abs/1902.03694 Acceleration via Symplectic Discretization of High-Resolution Differential Equations], /NeurIPS 2019./ 
 -- *Bin Shi*, Simon S. Du, Weijie J. Su and Michael I. Jordan
 
-- [https://arxiv.org/abs/1708.08035 A Conservation Law Method in Optimization], /[https://opt-ml.org/oldopt/opt17/ The Tenth Workshop on Optimization for Machine Learning], Proceedings of the 31st International Conference on Neural Information Processing Systems, (NeurIPS 2017)./
+- [https://arxiv.org/abs/1708.08035 A Conservation Law Method in Optimization], /[https://opt-ml.org/oldopt/opt17/ Optimization for Machine Learning,] NeurIPS 2017./
 -- *Bin Shi*, Tao Li and Sundaraja S. Iyengar
 
 
