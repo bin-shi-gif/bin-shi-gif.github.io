@@ -7,7 +7,9 @@
 {}{img_left}{index_files/bin2.jpg}{alt text}{440}{420}{https://bin-shi-gif.github.io/}
 #Welcome to my homepage! 
 
-I am an Associate Professor with tenure ([files/CV.pdf my resume]) in [https://www.simis.cn/ Center for Mathematics and Interdisciplinary Sciences] at [ Fudan University] and jointly appointmented by [https://www.simis.cn/ Shanghai Institute for Mathematics and Interdisciplinary Sciences].\n
+I am and Associate Professor with tenure ([files/CV.pdf my resume]) jointly appointmented by  \n
+[https://www.simis.cn/ Shanghai Institute for Mathematics and Interdisciplinary Sciences] \n
+[ Research Center for Mathematics and Interdisciplinary Sciences, Fudan University]. \n
 Previously, I was a postdoc of [http://people.eecs.berkeley.edu/~jordan/ Michael I. Jordan]\n  
 # [http://lsec.cc.ac.cn/ Shanghai Institute for Mathematics and ] \n
 # [https://www.simis.cn/ Shanghai Institute for Mathematics and Interdisciplinary Sciences] \n
@@ -30,15 +32,14 @@ Office:  \#1206, Block A, International Innovation Plaza \n
 Tel: +86-(010)82541583 \n
 #RISELab, UC Berkeley \n
 #465 Soda Hall, Berkeley, CA 94720 \n
-Email: binshi@fudan.edu.cn; binshi@simis.cn  \n \n\n
+Email: binshi2021@gmail.com; binshi@simis.cn  \n \n\n
 
 == Research interests
 -  Optimization for Machine Learning                                        \n
 -  Numerical Analysis and Scientific Computing                              \n    
--  Data Assimilation                                                        \n
--  Quantum Algorithms                                                       \n   
+-  Data Assimilation                                                        \n 
 -  Nonlinear and Stochastic Sciences                                        \n
--  Fluid Dynamics (Turbulence, Geophysical, Astrophysical)                     
+-  Fluid Dynamics (Turbulence, Geophysical, Astrophysical) 
 
 ##  - Major in Differential Equations and Optimization \n
 #=== 2. Geophysical and Astrophysical Fluid Dynamics \n 
@@ -65,6 +66,10 @@ Email: binshi@fudan.edu.cn; binshi@simis.cn  \n \n\n
 - [https://arxiv.org/abs/2410.04471 Numerical Solution for Nonlinear 4D Variational Data Assimilation (4D-Var) via ADMM],~~\[[https://github.com/bowenmath/4D-Var-via-ADMM code\]] 
 -- Bowen Li and *Bin Shi*
 # -- The code will be available online shortly!
+
+
+- [https://arxiv.org/abs/2505.10896  On Pseudospectral Concentration for Rank-1 Sampling],
+-- Kuo Gai and *Bin Shi*
 
 
 
