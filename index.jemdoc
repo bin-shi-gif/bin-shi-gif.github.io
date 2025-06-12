@@ -61,9 +61,9 @@ Email: binshi@fudan.edu.cn; binshi@simis.cn  \n \n\n
 - [https://npg.copernicus.org/articles/31/165/2024/ The sampling method for optimal precursors of El Niño-Southern Oscillation events], /Nonlinear Processes in Geophysics, 31(1):165–174, 2024./
 -- *Bin Shi* and Junjie Ma
 
-- [https://www.sciencedirect.com/science/article/pii/S0021999125004462 Numerical Solution for Nonlinear 4D Variational Data Assimilation (4D-Var) via ADMM],~~\[[https://github.com/bowenmath/4D-Var-via-ADMM code\]] 
+- [https://www.sciencedirect.com/science/article/pii/S0021999125004462 Numerical Solution for Nonlinear 4D Variational Data Assimilation (4D-Var) via ADMM],~~\[[https://github.com/bowenmath/4D-Var-via-ADMM code\]], /Journal of Computational Physics, 538:114163, 2025./ 
 -- Bowen Li and *Bin Shi*
--- To appear in Journal of Computational Physics, 2025+
+# -- To appear in Journal of Computational Physics, 2025+
 # -- The code will be available online shortly!
 
 
