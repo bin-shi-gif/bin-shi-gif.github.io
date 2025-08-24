@@ -19,6 +19,10 @@
 
 == Journal Publications 
 
+- [https://arxiv.org/abs/2407.18681 A Lyapunov Analysis of Accelerated PDHG Algorithms], To appear in /Journal of Optimization Theory and Applications, 2025+./
+-- Xueying Zeng and *Bin Shi*
+
+
 - [https://www.sciencedirect.com/science/article/pii/S0021999125004462 Numerical Solution for Nonlinear 4D Variational Data Assimilation (4D-Var) via ADMM],~~\[[https://github.com/bowenmath/4D-Var-via-ADMM code\]], /Journal of Computational Physics, 538:114163, 2025./ 
 -- Bowen Li and *Bin Shi*
 # -- To appear in Journal of Computational Physics, 2025+
@@ -119,8 +123,6 @@
 -- Bowen Li and *Bin Shi*
 
 
-- [https://arxiv.org/abs/2407.18681 A Lyapunov Analysis of Accelerated PDHG Algorithms], 
--- Xueying Zeng and *Bin Shi*
 
 
 
