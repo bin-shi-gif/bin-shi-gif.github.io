@@ -18,7 +18,12 @@
 #-- Many-Body Localization: Stability and Chaos
 
 == Journal Publications 
-- [https://link.springer.com/article/10.1007/s10898-025-01543-z Revisiting Nesterov's acceleration via high-resolution differential equations], /Journal of Global Optimization, 2025, Published online./
+- [https://arxiv.org/abs/2211.01610 Proximal Subgradient Norm Minimization of ISTA and FISTA], /To appear in Applied and Computational Harmonic Analysis, 2025+./
+-- Bowen Li, *Bin Shi* and Ya-xiang Yuan
+#-- /Submitted/
+
+
+- [https://link.springer.com/article/10.1007/s10898-025-01543-z Revisiting Nesterov's acceleration via high-resolution differential equations], /Journal of Global Optimization, 93:551-569, 2025./
 -- Shuo Chen, *Bin Shi* and Ya-xiang Yuan
 #-- /Submitted/
 
@@ -56,7 +61,7 @@
 -- *Bin Shi* and Guodong Sun
 
 
-- [https://link.springer.com/article/10.1007/s10107-021-01681-8  Understanding the Acceleration Phenomenon via High-Resolution Differential Equations],   /Mathematical Programming, Series A, 195(1):79–148, 2022./
+- [https://link.springer.com/article/10.1007/s10107-021-01681-8  Understanding the Acceleration Phenomenon via High-Resolution Differential Equations],   /Mathematical Programming, Series A, 195:79–148, 2022./
 -- *Bin Shi*, Simon S. Du, Weijie Su and Michael I. Jordan
 
 
@@ -103,9 +108,7 @@
 -- *Bin Shi*, Dehai Luo and Wenqi Zhang
 #-- /Submitted/
 
-- [https://arxiv.org/abs/2211.01610 Proximal Subgradient Norm Minimization of ISTA and FISTA],
--- Bowen Li, *Bin Shi* and Ya-xiang Yuan
-#-- /Submitted/
+
 
 
 
