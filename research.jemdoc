@@ -143,6 +143,9 @@
 - [https://arxiv.org/abs/2505.10896  On Pseudospectral Concentration for Rank-1 Sampling],
 -- Kuo Gai and *Bin Shi*
 
+- [https://arxiv.org/abs/2602.16275v1  Numerical Construction of Quasi-Periodic Solutions Beyond Symplectic Integrators],~~\[[https://github.com/MingweiFu/The-dimension-enlarged-Newton-scheme code\]],
+-- Mingwei Fu and *Bin Shi*
+
 
 #== In Preparation
 #- On the Hyperparameters in SGD with Momentum
