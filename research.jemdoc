@@ -18,6 +18,12 @@
 #-- Many-Body Localization: Stability and Chaos
 
 == Journal Publications 
+
+- [https://arxiv.org/abs/2304.14642 On Underdamped Nesterov's Acceleration], /To appear in Journal of Computational Mathematics, 2026+/
+-- Shuo Chen, *Bin Shi* and Ya-xiang Yuan
+#-- /Submitted/
+
+
 - [https://arxiv.org/abs/2211.01610 Proximal Subgradient Norm Minimization of ISTA and FISTA], /Applied and Computational Harmonic Analysis, 2025, Published Online./
 -- Bowen Li, *Bin Shi* and Ya-xiang Yuan
 #-- /Submitted/
@@ -114,9 +120,6 @@
 
 
 
-- [https://arxiv.org/abs/2304.14642 On Underdamped Nesterov's Acceleration],
--- Shuo Chen, *Bin Shi* and Ya-xiang Yuan
-#-- /Submitted/
 
 
 
@@ -145,6 +148,10 @@
 
 - [https://arxiv.org/abs/2602.16275v1  Numerical Construction of Quasi-Periodic Solutions Beyond Symplectic Integrators],~~\[[https://github.com/MingweiFu/The-dimension-enlarged-Newton-scheme code\]],
 -- Mingwei Fu and *Bin Shi*
+
+- [https://arxiv.org/abs/2605.01864v1  Numerical Construction of Elliptic Lower-Dimensional Quasi-Periodic Solutions with a Priori Bound],~~\[[https://github.com/MingweiFu/The-dimension-enlarged-Newton-scheme code\]],
+-- Mingwei Fu and *Bin Shi*
+
 
 
 #== In Preparation
