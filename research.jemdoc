@@ -19,12 +19,15 @@
 
 == Journal Publications 
 
-- [https://arxiv.org/abs/2304.14642 On Underdamped Nesterov's Acceleration], /To appear in Journal of Computational Mathematics, 2026+/
+- [https://arxiv.org/abs/2401.07096 Understanding the ADMM Algorithm via High-Resolution Differential Equations], /To appear in Applied Mathematics and Optimization, 2026+./
+-- Bowen Li and *Bin Shi*
+
+- [https://www.global-sci.com/JCM/article/view/24343 On Underdamped Nesterov's Acceleration], /Journal of Computational Mathematics, 44(6):1912-1934, 2026/
 -- Shuo Chen, *Bin Shi* and Ya-xiang Yuan
 #-- /Submitted/
 
 
-- [https://arxiv.org/abs/2211.01610 Proximal Subgradient Norm Minimization of ISTA and FISTA], /Applied and Computational Harmonic Analysis, 2025, Published Online./
+- [https://www.sciencedirect.com/science/article/abs/pii/S1063520325001022 Proximal Subgradient Norm Minimization of ISTA and FISTA], /Applied and Computational Harmonic Analysis, 2025, 82:101848, 2026./
 -- Bowen Li, *Bin Shi* and Ya-xiang Yuan
 #-- /Submitted/
 
@@ -42,7 +45,7 @@
 -- Bowen Li and *Bin Shi*
 # -- To appear in Journal of Computational Physics, 2025+
 
-- [https://link.springer.com/article/10.1007/s40305-024-00561-0 Linear Convergence of ISTA and FISTA], /Journal of the Operations Research Society of China, 2024, Published online./
+- [https://link.springer.com/article/10.1007/s40305-024-00561-0 Linear Convergence of ISTA and FISTA], /Journal of the Operations Research Society of China, 14:345-363, 2024./
 -- Bowen Li, *Bin Shi* and Ya-xiang Yuan
 
 
@@ -123,8 +126,7 @@
 
 
 
-- [https://arxiv.org/abs/2401.07096 Understanding the ADMM Algorithm via High-Resolution Differential Equations], 
--- Bowen Li and *Bin Shi*
+
 
 
 - [https://arxiv.org/abs/2403.11139 Understanding the PDHG Algorithm via High-Resolution Differential Equations], 
@@ -152,6 +154,9 @@
 - [https://arxiv.org/abs/2605.01864v1  Numerical Construction of Elliptic Lower-Dimensional Quasi-Periodic Solutions with a Priori Bound],~~\[[https://github.com/MingweiFu/The-dimension-enlarged-Newton-scheme code\]],
 -- Mingwei Fu and *Bin Shi*
 
+
+- [https://arxiv.org/abs/2606.11800v1 Accelerated Implicit GDA Schemes: Theoretical Guarantees and Application to Proximal Augmented Lagrangian Methods],~~\[[https://github.com/liujiaqi-star/paper-AIGDA\]],
+-- Jiaqi Liu and *Bin Shi*
 
 
 #== In Preparation
